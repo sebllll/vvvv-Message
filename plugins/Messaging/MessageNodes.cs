@@ -13,6 +13,7 @@ using VVVV.PluginInterfaces.V2;
 using VVVV.Core.Logging;
 using VVVV.Utils.Collections;
 using VVVV.Utils.Messaging;
+using VVVV.Nodes.Generic;
 
 #endregion usings
 
